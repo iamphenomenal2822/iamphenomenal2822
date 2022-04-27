@@ -37,7 +37,10 @@ Here are some ideas to get you started:
  <a href="https://twitter.com/ShivamSwami03">
   <img align="left" alt="Shivam Swami | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-  <!-- <img align='right' src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="400"> -->
+<a href="shivamswami1899@gmail.com">
+  <img align="left" alt="Email Shivam" width="70px" src="https://cdn.vox-cdn.com/thumbor/8fWz6qpiMYMsZhY4vrc9Vhl5yL8=/0x110:1320x770/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/21939811/newgmaillogo.jpg" />
+</a>
+ 
 
 <br/>
 
