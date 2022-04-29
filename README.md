@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about any MERN related stuff.
 - 📫 How to reach me *shivamswami1899@gmail.com*
 - 😄 Pronouns: He/His
+- Here is the link of my personal portfolio http://shivam-swami-portfolio.netlify.app.
 <!-- - ⚡️ Fun fact: Hot water will turn into ice faster than cold water. -->
  <br>
  
