@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 - Here is the link of my personal portfolio http://shivam-swami-portfolio.netlify.app.
 <!-- - ⚡️ Fun fact: Hot water will turn into ice faster than cold water. -->
  <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamphenomenal2822&label=Profile%20views&color=0e75b6&style=flat" alt="iamphenomenal2822" /></p>
  
 ## 🚀 Languages and Tools:
  <img align="right" alt="GIF" clear = "both" src="https://quantumhunts.com/user/assets/images/hero/hiring-manager-quantumhunts.gif" width="400" height="250" />
