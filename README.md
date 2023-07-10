@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://www.linkedin.com/in/shivam-swami/">
-  <img align="left" alt="Shivam Swami LinkedIn Profile" width="40px" src="https://iconscout.com/icon/linkedin-2752135" />
+  <img align="left" alt="Shivam Swami LinkedIn Profile" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-40-151141.png?f=avif&w=256" />
 </a>
 <!--  <a href="https://twitter.com/ShivamSwami03">
   <img align="left" alt="Shivam Swami | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
