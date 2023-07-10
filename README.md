@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/shivam-swami-4a548221b/">
   <img align="left" alt="Shivam Swami LinkedIn Profile" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
- <a href="https://twitter.com/ShivamSwami03">
+<!--  <a href="https://twitter.com/ShivamSwami03">
   <img align="left" alt="Shivam Swami | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+</a> -->
 <a href="shivamswami1899@gmail.com">
   <img align="left" alt="Email Shivam" width="70px" src="https://cdn.vox-cdn.com/thumbor/8fWz6qpiMYMsZhY4vrc9Vhl5yL8=/0x110:1320x770/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/21939811/newgmaillogo.jpg" />
 </a>
