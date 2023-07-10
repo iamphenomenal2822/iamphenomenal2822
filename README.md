@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<a href="https://www.linkedin.com/in/shivam-swami-4a548221b/">
+<a href="https://www.linkedin.com/in/shivam-swami/">
   <img align="left" alt="Shivam Swami LinkedIn Profile" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <!--  <a href="https://twitter.com/ShivamSwami03">
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about any MERN related stuff.
 - 📫 How to reach me *shivamswami1899@gmail.com*
 - 😄 Pronouns: He/His
-- Here is the link of my personal portfolio https://shivamswami.netlify.app/.
+- Here is the link of my personal portfolio https://my-portfolio-iamphenomenal2822.vercel.app/.
 <!-- - ⚡️ Fun fact: Hot water will turn into ice faster than cold water. -->
  <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamphenomenal2822&label=Profile%20views&color=0e75b6&style=flat" alt="iamphenomenal2822" /></p>
